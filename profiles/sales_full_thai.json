@@ -1,0 +1,23 @@
+{
+  "profile_name": "sales_full_thai",
+  "selected_columns": [
+    "No.",
+    "Item Code",
+    "Product Name",
+    "Category",
+    "Qty",
+    "Unit Price",
+    "Discount",
+    "Total Amount"
+  ],
+  "column_mapping": {
+    "No.": "ลำดับ",
+    "Item Code": "รหัสสินค้า",
+    "Product Name": "รายการสินค้า",
+    "Category": "หมวดหมู่",
+    "Qty": "จำนวน",
+    "Unit Price": "ราคาต่อหน่วย",
+    "Discount": "ส่วนลด",
+    "Total Amount": "ยอดเงินสุทธิ"
+  }
+}

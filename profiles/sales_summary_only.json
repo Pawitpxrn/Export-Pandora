@@ -1,0 +1,15 @@
+{
+  "profile_name": "sales_summary_only",
+  "selected_columns": [
+    "No.",
+    "Product Name",
+    "Qty",
+    "Total Amount"
+  ],
+  "column_mapping": {
+    "No.": "ลำดับ",
+    "Product Name": "ชื่อสินค้า",
+    "Qty": "จำนวนที่ขายได้",
+    "Total Amount": "ยอดขายรวม (บาท)"
+  }
+}
